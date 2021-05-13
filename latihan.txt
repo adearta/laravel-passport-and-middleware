@@ -1,0 +1,2 @@
+latihan get / post menggunakan passport token diletakkan di header,
+menggunakan middleware dengan 2 tipe user
